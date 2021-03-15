@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="RayCasterLauncher:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RayCasterLauncher_jar</output-path>
+    <root id="root">
+      <element id="archive" name="RayCasterLauncher.jar">
+        <element id="module-output" name="RayCasterLauncher" />
+      </element>
+      <element id="library" level="project" name="json-20210307" />
+    </root>
+  </artifact>
+</component>
